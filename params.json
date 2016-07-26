@@ -1,0 +1,6 @@
+{
+  "name": "Attackdetection",
+  "tagline": "Attack Detection",
+  "body": "Suricata PT Open Ruleset\r\n=====\r\nThe Attack Detection Team searches for new vulnerabilities and 0-days, reproduces it and creates PoC exploits to understand how these security flaws work and how related attacks can be detected on the network layer. Additionally, we are interested in malware and hackers’ TTPs, so we develop Suricata rules for detecting all sorts of such activities. \r\n## Structure\r\nThis repository consisting of folders with self-explanatory names contains Suricata rules, PoC exploits, and traffic samples in zip archives with default password.\r\n## License\r\nThis software is provided under under a custom License. See the accompanying LICENSE file for more information.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
